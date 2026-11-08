@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJm1xwmbkTg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alexa\\Desktop\\ShieldEnv\\ShieldEnv.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Der Dienstindex für die Quelle \"https://api.nuget.org/v3/index.json\" konnte nicht geladen werden.",
+      "libraryId": "Microsoft.DotNet.ILCompiler"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\ShieldEnv\bin\Release\net8.0\leakguard.exe
+C:\Users\alexa\Desktop\ShieldEnv\bin\Release\net8.0\leakguard.deps.json
+C:\Users\alexa\Desktop\ShieldEnv\bin\Release\net8.0\leakguard.runtimeconfig.json
+C:\Users\alexa\Desktop\ShieldEnv\bin\Release\net8.0\leakguard.dll
+C:\Users\alexa\Desktop\ShieldEnv\bin\Release\net8.0\leakguard.pdb
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ShieldEnv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ShieldEnv.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ShieldEnv.AssemblyInfo.cs
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ShieldEnv.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\leakguard.dll
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\refint\leakguard.dll
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\leakguard.pdb
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ShieldEnv.genruntimeconfig.cache
+C:\Users\alexa\Desktop\ShieldEnv\obj\Release\net8.0\ref\leakguard.dll
